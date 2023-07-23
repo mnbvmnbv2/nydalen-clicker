@@ -1,2 +1,2 @@
 # NydalenClicker
-[mnbvmnbv2.github.io/NydalenClicker](https://mnbvmnbv2.github.io/NydalenClicker)
+[mnbvmnbv2.github.io/nydalen-clicker](https://mnbvmnbv2.github.io/nydalen-clicker)
